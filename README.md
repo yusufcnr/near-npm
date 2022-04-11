@@ -17,3 +17,8 @@ save a worker, give hime a title, set start date/time.
 
 manager can give some bonus. 
 
+
+#Basic Diary Website:
+Everyone can log in with his wallet and werite something. 
+They can get paid based on how long they write or score they get from others. 
+everyone has right to vote for asseys,
