@@ -6,4 +6,14 @@ There will be some workers and their level will be different.
 They will have some parameters based on their level.
 Basically there are 2 factor impacting the salary of a worker:
 Title  and Experience. 
-titles will be scored between 1-5 and experience will be (number_of_year_worked / 5). basically you get 1 level higher in terms of experience.
+titles will be scored between 1-5 (worker, technician, engineer, sr. engineer, manager) and experience will be (number_of_year_worked / 3). basically you get 1 level higher in terms of experience.
+
+At the end of the week (friday at 5:30 pm) all rewards will be distributed. 
+
+There should be some company wallet. 
+everyone should connect 
+
+save a worker, give hime a title, set start date/time. 
+
+manager can give some bonus. 
+
