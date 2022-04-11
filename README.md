@@ -32,4 +32,4 @@ enum Titles {
   Manager
   
 }
-function getTitle = Titles.Worker
+function getTitle = Titles.Worker+1 //initial value is 0 so we need some value for it.
