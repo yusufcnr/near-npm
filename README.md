@@ -32,4 +32,4 @@ enum Titles {
   Manager
   
 }
-function getTitle = 
+function getTitle = Titles.Worker
