@@ -22,3 +22,14 @@ manager can give some bonus.
 Everyone can log in with his wallet and werite something. 
 They can get paid based on how long they write or score they get from others. 
 everyone has right to vote for asseys,
+
+
+enum Titles {
+  Worker,
+  Technician,
+  Engineer,
+  SrEngineer,
+  Manager
+  
+}
+function getTitle = 
