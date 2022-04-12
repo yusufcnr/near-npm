@@ -34,3 +34,8 @@ enum Titles {
   
 }
 function getTitle = Titles.Worker+1 //initial value is 0 so we need some value for it.
+
+
+sign up for your company.
+and add worker.
+worker would have some title, experinece, startDate, isRetired
