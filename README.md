@@ -1,4 +1,4 @@
-# Salary Management System
+# NPM Near Personnell Management System
 This repo is for the project which needs to be submitted after completion of the Near Developer Cours on Patika.dev. 
 We will be making a dapp on Near Blockchain which has following feature.
 
