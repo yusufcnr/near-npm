@@ -24,6 +24,7 @@ They can get paid based on how long they write or score they get from others.
 everyone has right to vote for asseys,
 
 
+Add custom worker type using a function. 
 enum Titles {
   Worker,
   Technician,
