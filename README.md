@@ -1,4 +1,12 @@
 # NPM Near Personnell Management System
+USAGE:
+1-clone this repository git clone https://github.com/yusufcnr/npm.git
+cd into the directory cd npm
+2-install near-sdk-as npm install --dev near-sdk-as
+3-start new project using framework npx asinit .
+
+
+
 This repo is for the project which needs to be submitted after completion of the Near Developer Cours on Patika.dev. 
 We will be making a dapp on Near Blockchain which has following feature.
 
