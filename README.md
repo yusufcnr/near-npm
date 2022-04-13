@@ -5,7 +5,7 @@ cd into the directory cd npm
 2-install near-sdk-as npm install --dev near-sdk-as
 3-start new project using framework npx asinit .
 
-
+https://www.npmjs.com/package/near-sdk-as?activeTab=readme
 
 This repo is for the project which needs to be submitted after completion of the Near Developer Cours on Patika.dev. 
 We will be making a dapp on Near Blockchain which has following feature.
